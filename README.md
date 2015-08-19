@@ -54,9 +54,11 @@ We intend to design work processes that enable us to collaboratively maintain PL
 - Orientation (using engagement logics, angles of approach)
 
 ##### Possible tools
-- Semantic wiki (not great for federated, i.e. individual aspect?) 
+- Semantic wiki (not great for federated, i.e. individual aspect?)
+- PatternPedia on Semantic MediaWiki (is there a demo open source version to play with?)
 - Smallest Federated wiki (not great for scaling aggregation and co-laboration? participate in Ward Cunningham's video sessions with David & Ksenya)
 - Github
+- René Reiner's Pattern evolution library (is there a demo open source version to play with?)
 - Trello (work flow)
 - Slack (work process discussion, integration of notification, simulations/bot?)
 - 'Orientation' game / engine based on engagement logics and why/what/how/who framework to be developped
