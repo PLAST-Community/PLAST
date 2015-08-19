@@ -3,7 +3,7 @@
 Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors.
 
 ## Vision 
-By systemically and semantically marking up and relating different kinds of knowledge, and enabling navigation within this networked knowledge, collective intelligence can be operationalized and collective action (whether co-operation or co-laboration) enhanced in a way that ensures that intentions, action and the effects they produce can be assessed against each other. 
+By systemically and semantically marking up and relating different kinds of knowledge, and by enabling navigation within this networked knowledge, collective intelligence can be operationalized and collective action (whether co-operation or co-laboration) enhanced in a way that ensures that intentions, action and the effects they produce can be assessed against each other. 
 
 ## Description of the project
 The major objective of the PLAST project is to create a multi-disciplinary community of practice around an open knowledge
@@ -26,11 +26,11 @@ languages and creating new ones from practitioners’ experiences. This will be 
 their own repositories, federated into a commons.
 
 ## Work Processes and project development
-We will work in parallel, and open up streams to develop:
+We will open up streams to develop in parallel:
 - Work processes
 - Set of tools
 - Semantic / systemic operators (writing systemic stories)
-- Orientation engine (semiotics)
+- Orientation engine (using engagement logic heuristics)
 
 We intend to develop a base infrastructure so that work can start with minimal set up / work / learning curve, and to get people / communities to engage, and a set of structuring principles so that the project can scale.
 
@@ -52,6 +52,7 @@ We intend to design work processes that enable us to collaboratively maintain PL
 - Retrieving of individual patterns and building of sequences
 - Discussion of patterns individually and in sequence and tracks of discussions
 - Orientation (using engagement logics, angles of approach)
+- ...
 
 ##### Possible tools
 - Semantic wiki (not great for federated, i.e. individual aspect?)
@@ -62,18 +63,24 @@ We intend to design work processes that enable us to collaboratively maintain PL
 - Trello (work flow)
 - Slack (work process discussion, integration of notification, simulations/bot?)
 - 'Orientation' game / engine based on engagement logics and why/what/how/who framework to be developped
+- ...
 
 ## Resources and documentation
 From which to abstract and synthesize project description and work elements
 
 ##### Work elements:
-- Presentation [Bridging the Systemic and Semantic Spheres](http://www.slideshare.net/helenefinidori/systemic-interpretation-language). A highlight, conceptual summary of the project.
-- The [PLAST proposal for CAPS Horizon2020 (sections 1-3, including work packages)](https://drive.google.com/file/d/0B1hB6w2xjIXAc3JhYmhCQXMwdGc/view?usp=sharing) 
-- Presentation [Towards a 4th generation pattern language](http://www.slideshare.net/helenefinidori/plast-presentationpurplsoc-v3). Highlights on what PLAST does, and how it is operationalized, as a use case for a new generation of pattern languages. Includes the what/how/why framework.
+**Conceptual elements**
+- Presentation [Bridging the Systemic and Semantic Spheres](http://www.slideshare.net/helenefinidori/systemic-interpretation-language) ten slides highlight, conceptual summary of the project.
+- [Logics of Engagement and Action on the repo's wiki](https://github.com/PLAST-Community/PLAST/wiki/Logics-of-Engagement-and-Action) two slides framework for orientation / semantic enquiry
+- [What PLAST does](https://github.com/PLAST-Community/PLAST/wiki/What-PLAST-Does) two slides on how PLAST operates in relation to the dimensionalities of engagement in change. 
+
+**Implementation elements**
+- The [PLAST proposal for CAPS Horizon2020](https://drive.google.com/file/d/0B1hB6w2xjIXAc3JhYmhCQXMwdGc/view?usp=sharing)sections 1-3, including work packages.
 - [First set of systemic interpretation elements](https://drive.google.com/file/d/0B1hB6w2xjIXAcWV1dUFMUGRWSm8/view?usp=sharing) used at the Purplsoc conference to share systemic stories. (need to finalize and post report here).
 
-##### Background articles:
+##### Background articles/presentations:
 - [Collective intelligence is a commons that needs protection and a dedicated language](http://www.academia.edu/10292904/Collective_intelligence_is_a_commons_that_needs_protection_and_a_dedicated_language) in Spanda Journal, issue on Collective intelligence.
 - [A Pattern LAnguage for Systemic Transformation (PLAST) - (re)Generative of Commons](http://www.academia.edu/9138366/A_Pattern_LAnguage_for_Systemic_Transformation_PLAST_-_re_Generative_of_Commons)
 - [Wiki as Pattern Language](http://www.hillside.net/plop/2013/papers/Group6/plop13_preprint_51.pdf) by Ward Cunningham. Elaborations on Pattern languages, wiki, and Smallest Federated Wiki.
+- Presentation at Purplsoc 2015 [Towards a 4th generation pattern language](http://www.slideshare.net/helenefinidori/plast-presentationpurplsoc-v3). Highlights on what PLAST does, and how it is operationalized, as a use case for a new generation of pattern languages. Includes more details on the what/how/why framework. As basis for a paper in the proceedings of Purplsoc book.
 
