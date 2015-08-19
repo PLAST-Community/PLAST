@@ -3,7 +3,7 @@
 Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors.
 
 ## Vision 
-By systemically and semantically marking up and relating different kinds of knowledge and enabling navigation within this networked knowledge, collective intelligence can be operationalized and collective action (whether co-operation or co-laboration) enhanced in a way that ensures that intentions, action and the effects they produce can be assessed against each other. 
+By systemically and semantically marking up and relating different kinds of knowledge, and enabling navigation within this networked knowledge, collective intelligence can be operationalized and collective action (whether co-operation or co-laboration) enhanced in a way that ensures that intentions, action and the effects they produce can be assessed against each other. 
 
 ## Description of the project
 The major objective of the PLAST project is to create a multi-disciplinary community of practice around an open knowledge
