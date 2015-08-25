@@ -1,35 +1,28 @@
 # PLAST
 ##### Pattern Languages for Systemic Interpretation & Transformation
-Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors that enable the sharing of systemic stories.
-
-## Vision 
-By systemically and semantically marking up and relating different kinds of knowledge, and by enabling navigation within this networked knowledge, collective intelligence can be operationalized and collective action (whether co-operation or co-laboration) enhanced in a way that ensures that intentions, action and the effects they produce can be compared through systemic stories and reoriented when needed. 
-
-## Description of the project
-The major objective of the PLAST project is to bring together communities of practice from multiple disciplines and domains around an open knowledge repository of shared sustainable and socially innovative practices, federated into a commons. The project will leverage pattern languages to make knowledge accessible and reusable across domains, turning knowledge and ‘know-how’ into repeatable results and coherent systemic outcomes. The key operating principle of PLAST is to make communities of practice aware of each other’s solutions and achievements in a language that they can understand, so that successes can be explained, remixed, applied, and evaluated for their effectiveness across domains. 
-
-We seek to build a open knowledge platform that encourages systemic inquiry and collective exploration of adjacent possibilities by providing the ability to document, discuss and deliberate the intentions and outcomes of systemic interventions and change initiatives. Most importantly, by capturing and analysing the social process of deliberating effective sustainable practice, PLAST will allow reflexive improvement in the process of transformation itself.
-
-## Work Processes and project development
-We will open up streams to develop in parallel:
-- Work processes
-- Set of tools
-- Semantic / systemic operators (writing systemic stories)
-- Orientation engine (using engagement logic heuristics)
-
-We intend to develop a base infrastructure so that work can start with minimal set up / work / learning curve, and to get people / communities to engage, and a set of structuring principles so that the project can scale.
-
-We wish to attract individuals and communities that have a professional / occupational interest in developing the project. Individul / group projects will be federated / aggregated as use cases, using shared semantic and orientation tools to write their own systemic stories.
-
-We will develop PLAST as its own use case: developing patterns for our vision and work processes as open / stigmergetic project that could be applied to other open projects. 
-
-We intend to design work processes that enable us to collaboratively maintain PLAST's vision and work processes as a use case of the project, and to co-operatively develop our own operational use cases that will be aggregated in a shared pool of commons knowledge.
+Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors that enable the sharing of systemic stories. More info on [Vision & Description of theproject](https://github.com/PLAST-Community/PLAST/wiki/Vision-&-Description-of-the-Project)
 
 ## Roadmap / tasks
 1. write and maintain this project description and list of resources (mid August to mid September).
-2. inform and convene our core group of supporters to start evaluating tools and working on work processes (mid September).
-3. define the PLAST pattern language: how we work, what we do
-3. Set up / integrate the start tools and work processes so that the project can attract participation and develop organically.
+2. inform and convene our core group of supporters to answer the question "where do we want to start": start outlining work processes and evaluating tools to start the project (mid September).
+3. each community member defines what he wants to work on / develop and finds areas of overlap with others so things can evolve organically in an agile way.
+4. define the actions and workflows to support as a whole
+5. set up / integrate the point zero start tools and work processes so that people can get started and the project can attract participation and develop organically.
+
+## Project development
+We will open up streams to get started with and develop in parallel:
+- Work processes (a pattern language of the PLAST project?)
+- Set of tools (interface type wiki, semantic database, discussion space)
+- Semantic / systemic interpretation elements (to write systemic stories)
+- Orientation engine/tools (to navigate across levels of understanding and semiotic relationships) and hermeneutical approach
+
+We intend to develop a base infrastructure so that work can start with minimal set up / work / learning curve, and to get people / communities to engage, and a set of structuring principles so that things can be reconfigured and structured along the way, and so that the project can scale.
+
+We wish to attract individuals and communities that have a professional / occupational interest in developing their own  projects in connection with the PLAST. Each develops her/is own project in relation with others with whom there is an overlap. Individual / group projects will be federated / aggregated as use cases, using shared semantic and orientation tools to write their own systemic stories.
+
+We will develop PLAST as its own use case: developing patterns for our vision and work processes as open / stigmergetic project that could be applied to other open projects. 
+
+We intend to design work processes that enable us to collaboratively maintain PLAST's vision and work processes as a use case of the project, and to co-operatively develop our own operational use cases that will be aggregated in a shared pool of commons knowledge
 
 ## Drafts list of features needed / possible tools
 ##### Features
