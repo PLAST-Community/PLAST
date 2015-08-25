@@ -1,29 +1,14 @@
 # PLAST
 ##### Pattern Languages for Systemic Interpretation & Transformation
-Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors.
+Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors that enable the sharing of systemic stories.
 
 ## Vision 
-By systemically and semantically marking up and relating different kinds of knowledge, and by enabling navigation within this networked knowledge, collective intelligence can be operationalized and collective action (whether co-operation or co-laboration) enhanced in a way that ensures that intentions, action and the effects they produce can be assessed against each other. 
+By systemically and semantically marking up and relating different kinds of knowledge, and by enabling navigation within this networked knowledge, collective intelligence can be operationalized and collective action (whether co-operation or co-laboration) enhanced in a way that ensures that intentions, action and the effects they produce can be compared through systemic stories and reoriented when needed. 
 
 ## Description of the project
-The major objective of the PLAST project is to create a multi-disciplinary community of practice around an open knowledge
-repository of sustainability and social innovation practices, leveraging pattern languages to make knowledge accessible and
-reusable across domains, turning knowledge and ‘know-how’ into repeatable results and coherent systemic sustainability
-outcomes. The key to social innovation is making communities of sustainability practice aware of each other’s solutions and
-achievements in a language that they can understand, so that successes can be explained, remixed, applied, and evaluated
-for their effectiveness across domains.
+The major objective of the PLAST project is to bring together communities of practice from multiple disciplines and domains around an open knowledge repository of shared sustainable and socially innovative practices, federated into a commons. The project will leverage pattern languages to make knowledge accessible and reusable across domains, turning knowledge and ‘know-how’ into repeatable results and coherent systemic outcomes. The key operating principle of PLAST is to make communities of practice aware of each other’s solutions and achievements in a language that they can understand, so that successes can be explained, remixed, applied, and evaluated for their effectiveness across domains. 
 
-The PLAST project will provide an opensource platform for multi-disciplinary participants to share sustainability knowledge and
-know-how (in the form of Patterns and Pattern Languages) as ‘shared social objects’, and will organize them in a coherent
-model of meaningful relationships, socially constructed categories, and system dynamics. It will provide multiple entry points
-and pathways through collected solutions and practices, to encourage systemic inquiry and collective exploration of adjacent possibilities. It will encourage participants to apply these solutions and practices in new domains and communities,
-and to monitor the results, by providing the ability to document, discuss and deliberate the intentions and outcomes of
-systemic interventions. Most importantly, by capturing and analysing the social process of deliberating effective sustainable
-practices, the platform allows reflexive improvement in the process of transformation itself.
-
-The PLAST project will engage communities of place and practice in facilitated action research, collecting existing pattern
-languages and creating new ones from practitioners’ experiences. This will be the seed from which communities can create
-their own repositories, federated into a commons.
+We seek to build a open knowledge platform that encourages systemic inquiry and collective exploration of adjacent possibilities by providing the ability to document, discuss and deliberate the intentions and outcomes of systemic interventions and change initiatives. Most importantly, by capturing and analysing the social process of deliberating effective sustainable practice, PLAST will allow reflexive improvement in the process of transformation itself.
 
 ## Work Processes and project development
 We will open up streams to develop in parallel:
@@ -51,7 +36,7 @@ We intend to design work processes that enable us to collaboratively maintain PL
 - Semantic database / repository that can be queried by other tools
 - Retrieving of individual patterns and building of sequences
 - Discussion of patterns individually and in sequence and tracks of discussions
-- Orientation (using engagement logics, angles of approach)
+- Orientation (using engagement logics, angles of approach), queries etc
 - ...
 
 ##### Possible tools
@@ -77,6 +62,9 @@ From which to abstract and synthesize project description and work elements
 **Implementation elements**
 - The [PLAST proposal for CAPS Horizon2020](https://drive.google.com/file/d/0B1hB6w2xjIXAc3JhYmhCQXMwdGc/view?usp=sharing)sections 1-3, including work packages.
 - [First set of systemic interpretation elements](https://drive.google.com/file/d/0B1hB6w2xjIXAcWV1dUFMUGRWSm8/view?usp=sharing) used at the Purplsoc conference to share systemic stories. (need to finalize and post report here).
+- 
+**Technical elements**
+- Need link to PatternPedia and René Reiner's pattern library and pattern evolution tool.
 
 ##### Background articles/presentations:
 - [Collective intelligence is a commons that needs protection and a dedicated language](http://www.academia.edu/10292904/Collective_intelligence_is_a_commons_that_needs_protection_and_a_dedicated_language) in Spanda Journal, issue on Collective intelligence.
