@@ -62,7 +62,7 @@ From which to abstract and synthesize project description and work elements
 **Implementation elements**
 - The [PLAST proposal for CAPS Horizon2020](https://drive.google.com/file/d/0B1hB6w2xjIXAc3JhYmhCQXMwdGc/view?usp=sharing)sections 1-3, including work packages.
 - [First set of systemic interpretation elements](https://drive.google.com/file/d/0B1hB6w2xjIXAcWV1dUFMUGRWSm8/view?usp=sharing) used at the Purplsoc conference to share systemic stories. (need to finalize and post report here).
-- 
+
 **Technical elements**
 - Need link to PatternPedia and René Reiner's pattern library and pattern evolution tool.
 
