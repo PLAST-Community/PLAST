@@ -1,12 +1,12 @@
 # PLAST
 ##### Pattern Languages for Systemic Interpretation & Transformation
-Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors that enable the sharing of systemic stories. More info on [Vision & Description of theproject](https://github.com/PLAST-Community/PLAST/wiki/Vision-&-Description-of-the-Project)
+Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors that enable the sharing of systemic stories. More info on [Vision & Description of the project](https://github.com/PLAST-Community/PLAST/wiki/Vision-&-Description-of-the-Project)
 
 ## Roadmap / tasks
 1. write and maintain this project description and list of resources (mid August to mid September).
 2. inform and convene our core group of supporters to answer the question "where do we want to start": start outlining work processes and evaluating tools to start the project (mid September).
-3. each community member defines what he wants to work on / develop and finds areas of overlap with others so things can evolve organically in an agile way.
-4. define the actions and workflows to support as a whole
+3. each community member defines what he wants to work on / develop and what he needs to viably pursue his project in connection with PLAST and finds areas of overlap with others so things can evolve organically in an agile way.
+4. collectively define the actions and workflows to support as a whole
 5. set up / integrate the point zero start tools and work processes so that people can get started and the project can attract participation and develop organically.
 
 ## Project development
