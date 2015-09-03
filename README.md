@@ -34,14 +34,14 @@ We intend to design work processes that enable us to collaboratively maintain PL
 - ...
 
 ##### Possible tools
-- Semantic mediawiki (not great for federated, i.e. individual aspect?)
+- Semantic mediawiki (not great for federated, i.e. individual/community authorship, aspect?)
 - PatternPedia on Semantic MediaWiki (is there a demo open source version to play with?)
-- Smallest Federated wiki (not great for scaling aggregation and co-laboration? participate in Ward Cunningham's video sessions with David & Ksenya)
+- Smallest Federated wiki (not great for scaling aggregation and co-laboration? participate in Ward Cunningham's video sessions with David & Ksenya). Here is an [experimental Smallest Federated Wiki](http://helene.pattern.academy/view/welcome-visitors) 
 - - Wagn (long learning curve?)
-- Github
+- Github. Here we are, the PLAST-Community! :)
 - René Reiner's Pattern evolution library and pattern evolution tool (is there a demo open source version to play with?)
-- Trello (work flow)
-- Slack (work process discussion, integration of notification, simulations/bot?)
+- Trello (work flow). There is a [PLAST Trello board](https://trello.com/b/6mE75E1b/plast-in-caps-general-overview-and-discussions) to experiment
+- Slack (work process discussion, integration of notification, simulations/bot?) > [PLAST Community on Slack](https://plastcommunity.slack.com) set up
 - 'Orientation' game / engine based on engagement logics and why/what/how/who framework to be developped
 - ...
 
