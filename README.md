@@ -3,17 +3,17 @@
 Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors that enable the sharing of systemic stories. More info on [Vision & Description of the project](https://github.com/PLAST-Community/PLAST/wiki/Vision-&-Description-of-the-Project)
 
 ## Roadmap / tasks
-1. write and maintain this project description and list of resources (mid August to mid September).
-2. inform and convene our core group of supporters to answer the question "where do we want to start" to start outlining work processes and evaluating tools to start the project (mid September).
+1. write and maintain this project description and list of resources (on-going).
+2. inform and convene our core group of supporters to answer the question "where do we want to start" to start outlining work processes and evaluating tools to start the project (first meeting September [see video](https://www.youtube.com/watch?v=pTK3griQMs8&feature=youtu.be) ).
 3. each community member defines what he wants to work on / develop and what he needs to viably pursue his project in connection with PLAST and finds areas of overlap with others so things can evolve organically in an agile way.
 4. collectively define the actions and workflows to support individually and as a whole.
 5. assess existing tools (members of the community could 'advocate' and describe the pros and cons of the tools they prefer). 
 6. set up / integrate the point zero start tools and work processes so that people can get started and the project can attract participation and develop organically (we could start to experiement on several, find ways to bridge the data, and compare for decision).
 
 ## Project development
-We will open up streams to get started with and develop in parallel:
-- Work processes (a pattern language of the PLAST project?)
-- Set of tools (interface type wiki, semantic database, discussion space)
+We will open up streams to get started with and develop in parallel see dedicated channels on the [PLAST community on Slack](https://plastcommunity.slack.com):
+- Work processes (a pattern language of the PLAST project?)see and comment the [PLAST Work Process Draft Document](https://docs.google.com/document/d/1hSe7V8whwuetsTSvtpqkPzVJW6EA37kK682WZCzL_EI/edit)
+- Set of tools (interface type wiki, semantic database, discussion space) see and comment the [PLAST Tools Needs & Possibilities Google Doc](https://docs.google.com/document/d/1thN4hW_JQ2VE9a1IGjM_EJLnHGAmZpiuYmmvok7Ykhw/edit) 
 - Semantic / systemic interpretation elements (to write systemic stories)
 - Orientation engine/tools (to navigate across levels of understanding and semiotic relationships) and hermeneutical approach
 
@@ -29,6 +29,7 @@ We intend to design work processes that enable us to collaboratively maintain PL
 ##### Features
 - Semantic database / repository that can be queried by other tools
 - Retrieving of individual patterns and building of sequences
+- Creation and display of visuals (maps, sketches)
 - Discussion of patterns individually and in sequence and tracks of discussions
 - Orientation (using engagement logics, angles of approach), queries etc
 - ...
@@ -66,4 +67,5 @@ From which to abstract and synthesize project description and work elements
 - [A Pattern LAnguage for Systemic Transformation (PLAST) - (re)Generative of Commons](http://www.academia.edu/9138366/A_Pattern_LAnguage_for_Systemic_Transformation_PLAST_-_re_Generative_of_Commons)
 - [Wiki as Pattern Language](http://www.hillside.net/plop/2013/papers/Group6/plop13_preprint_51.pdf) by Ward Cunningham. Elaborations on Pattern languages, wiki, and Smallest Federated Wiki.
 - Presentation at Purplsoc 2015 [Towards a 4th generation pattern language](http://www.slideshare.net/helenefinidori/plast-presentationpurplsoc-v3). Highlights on what PLAST does, and how it is operationalized, as a use case for a new generation of pattern languages. Includes more details on the what/how/why framework. As basis for a paper in the proceedings of Purplsoc book.
+- Draft paper to soon be published in the proceedings of the Purplsoc 2015 conference- [Towards a fourth generation pattern language: Patterns as epistemic threads for systemic orientation](https://www.academia.edu/17543428/Towards_a_Fourth_Generation_Pattern_Language_Patterns_as_Epistemic_Threads_for_Systemic_Orientation)
 
