@@ -1,6 +1,6 @@
 # PLAST
 ##### Pattern Languages for Systemic Interpretation & Transformation
-Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) through systemic interpretation elements / descriptors that enable the sharing of systemic stories. More info on [Vision & Description of the project](https://github.com/PLAST-Community/PLAST/wiki/Vision-&-Description-of-the-Project)
+Connecting knowledge semantically across domains (disciplines - domains of application - specialization languages) and abstraction levels (concepts - praxis) to actively monitor and collectively interpret the evolving directionality of socio-technological-economic-environmental systems; through systemic interpretation elements / descriptors that help mediate among multiple cultural contexts, perceptions, interpretations and representationsenable and share systemic stories. More info on [Vision & Description of the project](https://github.com/PLAST-Community/PLAST/wiki/Vision-&-Description-of-the-Project)
 
 ## Roadmap / tasks
 1. write and maintain this project description and list of resources (on-going).
@@ -14,7 +14,7 @@ Connecting knowledge semantically across domains (disciplines - domains of appli
 We will open up streams to get started with and develop in parallel see dedicated channels on the [PLAST community on Slack](https://plastcommunity.slack.com):
 - Work processes (a pattern language of the PLAST project?)see and comment the [PLAST Work Process Draft Document](https://docs.google.com/document/d/1hSe7V8whwuetsTSvtpqkPzVJW6EA37kK682WZCzL_EI/edit)
 - Set of tools (interface type wiki, semantic database, discussion space) see and comment the [PLAST Tools Needs & Possibilities Google Doc](https://docs.google.com/document/d/1thN4hW_JQ2VE9a1IGjM_EJLnHGAmZpiuYmmvok7Ykhw/edit) 
-- Semantic / systemic interpretation elements (to write systemic stories)
+- Semantic / systemic interpretation elements (to decode, encode, write systemic stories)
 - Orientation engine/tools (to navigate across levels of understanding and semiotic relationships) and hermeneutical approach
 
 We intend to develop a base infrastructure so that work can start with minimal set up / work / learning curve, and to get people / communities to engage, and a set of structuring principles so that things can be reconfigured and structured along the way, and so that the project can scale.
