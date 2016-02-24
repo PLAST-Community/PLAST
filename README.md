@@ -4,7 +4,7 @@ Connecting knowledge semantically across domains (disciplines - domains of appli
 
 ## Roadmap / tasks
 1. write and maintain this project description and list of resources (on-going).
-2. inform and convene our core group of supporters to answer the question "where do we want to start" to start outlining work processes and evaluating tools to start the project (first meeting September [see video](https://www.youtube.com/watch?v=pTK3griQMs8&feature=youtu.be) ).
+2. inform and convene our core group of supporters to answer the question "where do we want to start" to start outlining work processes and evaluating tools to start the project .
 3. each community member defines what he wants to work on / develop and what he needs to viably pursue his project in connection with PLAST and finds areas of overlap with others so things can evolve organically in an agile way.
 4. collectively define the actions and workflows to support individually and as a whole.
 5. assess existing tools (members of the community could 'advocate' and describe the pros and cons of the tools they prefer). 
