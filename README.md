@@ -56,7 +56,6 @@ From which to abstract and synthesize project description and work elements
 - [What PLAST does](https://github.com/PLAST-Community/PLAST/wiki/What-PLAST-Does) two slides on how PLAST operates in relation to the dimensionalities of engagement in change. 
 
 **Implementation elements**
-- The [PLAST proposal for CAPS Horizon2020](https://drive.google.com/file/d/0B1hB6w2xjIXAc3JhYmhCQXMwdGc/view?usp=sharing)sections 1-3, including work packages.
 - [First set of systemic interpretation elements](https://drive.google.com/file/d/0B1hB6w2xjIXAcWV1dUFMUGRWSm8/view?usp=sharing) used at the Purplsoc conference to share systemic stories. (need to finalize and post report here).
 
 **Technical elements**
